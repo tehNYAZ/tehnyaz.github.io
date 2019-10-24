@@ -1,9 +1,10 @@
 theme: jekyll-theme-hacker
 markdown: kramdown
 highlighter: rouge
-header_pages:
-  - index.md
-  - about.md
 
-style: dark # dark (default) or light
-listen_for_clients_preferred_style: true # true or false (default)
+#header_pages:
+#  - index.md
+#  - about.md
+
+#style: dark # dark (default) or light
+#listen_for_clients_preferred_style: true # true or false (default)
