@@ -1,4 +1,4 @@
-theme: jekyll-theme-console
+theme: jekyll-theme-hacker
 markdown: kramdown
 highlighter: rouge
 header_pages:
