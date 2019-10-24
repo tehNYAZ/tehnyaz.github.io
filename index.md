@@ -1,2 +1,9 @@
+<header>
+  <script type="text/javascript" id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+</header>
+<body>
 ### Hello World
-$$e^2$$
+$-b \pm \sqrt{b^2 - 4ac} \over 2a$
+</body>
