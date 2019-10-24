@@ -1,3 +1,4 @@
+source: docs
 theme: jekyll-theme-slate
 markdown: kramdown
 highlighter: rouge
